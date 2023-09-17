@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cyb3r-arson
-- 👀 I’m interested in cyber security || web development ||web security || android development.
-- 🌱 I’m currently learning C++ |PHP | JAVA | PYTHON |DART | FLUTTER
+- 👀 I’m interested in cyber security || Digital Forensics||web security || android development || Network security || Network Engineering.
+- 🌱 I’m currently learning C++ | JAVA | PYTHON |DART | FLUTTER
 - 💞️ I’m looking to collaborate on the fields named above
-- 📫 How to reach me twitter @brianka94362660
+- 📫 How to reach me twitter @cyb3rson
 - You can email me on karanjabrian298@gmail.com
 
 <!---
