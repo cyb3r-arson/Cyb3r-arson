@@ -1,6 +1,7 @@
 I'm Brian Karanja, currently a student at Kirinyaga University, pursuing a BSc in Computer Science. Known in the tech community as cyb3r4rs0n, I'm passionate about cybersecurity, network engineering, and front-end web development.
 
 **About Me 🌟**
+
 I'm deeply involved in various facets of technology and community leadership:
 
 Cyber Security Analyst: I delve into the depths of cybersecurity, uncovering and fortifying digital threats.
